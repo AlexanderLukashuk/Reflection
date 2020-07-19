@@ -1,0 +1,8 @@
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/solution/ClassLibraryProjects/Library/bin/Debug/netstandard2.0/Library.deps.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/solution/ClassLibraryProjects/Library/bin/Debug/netstandard2.0/Library.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/solution/ClassLibraryProjects/Library/bin/Debug/netstandard2.0/Library.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/solution/ClassLibraryProjects/Library/obj/Debug/netstandard2.0/Library.csprojAssemblyReference.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/solution/ClassLibraryProjects/Library/obj/Debug/netstandard2.0/Library.AssemblyInfoInputs.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/solution/ClassLibraryProjects/Library/obj/Debug/netstandard2.0/Library.AssemblyInfo.cs
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/solution/ClassLibraryProjects/Library/obj/Debug/netstandard2.0/Library.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/solution/ClassLibraryProjects/Library/obj/Debug/netstandard2.0/Library.pdb

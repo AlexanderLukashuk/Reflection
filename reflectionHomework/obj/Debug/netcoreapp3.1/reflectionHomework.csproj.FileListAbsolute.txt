@@ -1,0 +1,13 @@
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/solution/ClassLibraryProjects/reflectionHomework/bin/Debug/netcoreapp3.1/reflectionHomework.deps.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/solution/ClassLibraryProjects/reflectionHomework/bin/Debug/netcoreapp3.1/reflectionHomework.runtimeconfig.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/solution/ClassLibraryProjects/reflectionHomework/bin/Debug/netcoreapp3.1/reflectionHomework.runtimeconfig.dev.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/solution/ClassLibraryProjects/reflectionHomework/bin/Debug/netcoreapp3.1/reflectionHomework.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/solution/ClassLibraryProjects/reflectionHomework/bin/Debug/netcoreapp3.1/reflectionHomework.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/solution/ClassLibraryProjects/reflectionHomework/bin/Debug/netcoreapp3.1/Library.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/solution/ClassLibraryProjects/reflectionHomework/bin/Debug/netcoreapp3.1/Library.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/solution/ClassLibraryProjects/reflectionHomework/obj/Debug/netcoreapp3.1/reflectionHomework.csprojAssemblyReference.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/solution/ClassLibraryProjects/reflectionHomework/obj/Debug/netcoreapp3.1/reflectionHomework.AssemblyInfoInputs.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/solution/ClassLibraryProjects/reflectionHomework/obj/Debug/netcoreapp3.1/reflectionHomework.AssemblyInfo.cs
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/solution/ClassLibraryProjects/reflectionHomework/obj/Debug/netcoreapp3.1/reflectionHomework.csproj.CopyComplete
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/solution/ClassLibraryProjects/reflectionHomework/obj/Debug/netcoreapp3.1/reflectionHomework.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/solution/ClassLibraryProjects/reflectionHomework/obj/Debug/netcoreapp3.1/reflectionHomework.pdb
